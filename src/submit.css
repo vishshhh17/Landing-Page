@@ -1,0 +1,14 @@
+div{
+    text-align: center;
+    background-color: beige;
+    margin-top:6rem ;
+    height: 300px;
+    padding-top: 6rem;
+}
+
+button{
+    height: 40px;
+    width: 80px;
+    background-color: rgb(0, 89, 255);
+    border-radius: 3px;
+}
